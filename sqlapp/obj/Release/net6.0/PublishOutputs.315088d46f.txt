@@ -1,0 +1,13 @@
+D:\Learning\sqlapp\bin\Publish\sqlapp.exe
+D:\Learning\sqlapp\bin\Publish\appsettings.Development.json
+D:\Learning\sqlapp\bin\Publish\appsettings.json
+D:\Learning\sqlapp\bin\Publish\sqlapp.dll
+D:\Learning\sqlapp\bin\Publish\sqlapp.deps.json
+D:\Learning\sqlapp\bin\Publish\sqlapp.runtimeconfig.json
+D:\Learning\sqlapp\bin\Publish\sqlapp.pdb
+D:\Learning\sqlapp\bin\Publish\System.Data.SqlClient.dll
+D:\Learning\sqlapp\bin\Publish\runtimes\win-arm64\native\sni.dll
+D:\Learning\sqlapp\bin\Publish\runtimes\win-x64\native\sni.dll
+D:\Learning\sqlapp\bin\Publish\runtimes\win-x86\native\sni.dll
+D:\Learning\sqlapp\bin\Publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Learning\sqlapp\bin\Publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
